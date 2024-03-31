@@ -1,0 +1,49 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: lightblue;
+}
+
+.container-navbar {
+    background-color: aquamarine
+}
+
+.ul-navbar{
+    background-color: plum;
+    display: flex;
+    height: 75px;
+    justify-content: center;
+    align-items: center;
+}
+
+.li-navbar{
+    border: 1px solid white;
+    background-color: pink;
+    list-style-type: none;
+    padding: 15px;
+    margin: 5px;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+.li-navbar:hover{
+    background-color: palevioletred;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
